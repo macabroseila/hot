@@ -5,15 +5,9 @@
 				<title>SEILA</title>
 </head>
 <body>
-				<p class="msg" id="msg">Hmmmm</p>
-  <div class="options">
-      <button class="btn" id="btnSim">Sim</button>
-      <button class="btn" id="btnNao">Não</button>
-      <p></p>
-       <a href="https://no.com/" target="_blank">touch the cow 🐄</class=""a>
-  <p></p>
-  <img src="oi.png" alt="oi.png">
-  
+			 
+  <img src="oi.png" alt="oi">
+
   </div>
 </body>
 </html>
